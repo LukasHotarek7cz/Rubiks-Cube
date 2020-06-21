@@ -1,0 +1,36 @@
+C:\Users\KUKAN\Desktop\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\KUKAN\Desktop\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.Form1.resources
+C:\Users\KUKAN\Desktop\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.Properties.Resources.resources
+C:\Users\KUKAN\Desktop\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\KUKAN\Desktop\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\KUKAN\Desktop\RubikovaKostka3\RubikovaKostka3\bin\Debug\RubikovaKostka3.exe
+C:\Users\KUKAN\Desktop\RubikovaKostka3\RubikovaKostka3\bin\Debug\RubikovaKostka3.pdb
+C:\Users\KUKAN\Desktop\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.exe
+C:\Users\KUKAN\Desktop\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.pdb
+D:\LUKAS\aaa PROGRAMI\C#\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.exe
+D:\LUKAS\aaa PROGRAMI\C#\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.pdb
+D:\LUKAS\aaa PROGRAMI\C#\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\LUKAS\aaa PROGRAMI\C#\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.Form1.resources
+D:\LUKAS\aaa PROGRAMI\C#\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.Properties.Resources.resources
+D:\LUKAS\aaa PROGRAMI\C#\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\LUKAS\aaa PROGRAMI\C#\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\LUKAS\aaa PROGRAMI\C#\RubikovaKostka3\RubikovaKostka3\bin\Debug\RubikovaKostka3.exe
+D:\LUKAS\aaa PROGRAMI\C#\RubikovaKostka3\RubikovaKostka3\bin\Debug\RubikovaKostka3.pdb
+G:\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.exe
+G:\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.pdb
+G:\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.csprojResolveAssemblyReference.cache
+G:\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.Form1.resources
+G:\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.Properties.Resources.resources
+G:\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.csproj.GenerateResource.Cache
+G:\RubikovaKostka3\RubikovaKostka3\bin\Debug\RubikovaKostka3.exe
+G:\RubikovaKostka3\RubikovaKostka3\bin\Debug\RubikovaKostka3.pdb
+C:\Users\162014\Desktop\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.exe
+C:\Users\162014\Desktop\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.pdb
+C:\Users\162014\Desktop\RubikovaKostka3\RubikovaKostka3\bin\Debug\RubikovaKostka3.exe
+C:\Users\162014\Desktop\RubikovaKostka3\RubikovaKostka3\bin\Debug\RubikovaKostka3.pdb
+C:\Users\162014\Desktop\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.csprojResolveAssemblyReference.cache
+C:\Users\162014\Desktop\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.Form1.resources
+C:\Users\162014\Desktop\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.Properties.Resources.resources
+C:\Users\162014\Desktop\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.csproj.GenerateResource.Cache
+V:\!LUKAS\DPT\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.exe
+V:\!LUKAS\DPT\RubikovaKostka3\RubikovaKostka3\obj\x86\Debug\RubikovaKostka3.pdb
